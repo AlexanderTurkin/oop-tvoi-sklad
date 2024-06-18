@@ -1,0 +1,3 @@
+admin:admin:admin
+manager1:managerpass:manager
+worker1:workerpass:worker

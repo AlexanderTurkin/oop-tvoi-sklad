@@ -1,0 +1,11 @@
+ID: user1
+Name: John Doe
+Role: worker
+Email: john.doe@example.com
+Phone: 123-456-7890
+
+ID: user2
+Name: Jane Smith
+Role: manager
+Email: jane.smith@example.com
+Phone: 987-654-3210

@@ -1,0 +1,70 @@
+User: admin
+Action: Login as administrator
+Time: Tue Jun 18 02:23:11 2024
+
+
+User: admin
+Action: Added item with ID: 2
+Time: Tue Jun 18 02:23:23 2024
+
+
+User: admin
+Action: Deleted item with ID: 2
+Time: Tue Jun 18 02:23:30 2024
+
+
+User: admin
+Action: Failed to find item with ID: 1
+Time: Tue Jun 18 02:23:40 2024
+
+
+User: admin
+Action: Login as administrator
+Time: Tue Jun 18 02:26:04 2024
+
+
+User: admin
+Action: Failed to find user with ID: 1
+Time: Tue Jun 18 02:26:11 2024
+
+
+User: admin
+Action: Login as administrator
+Time: Tue Jun 18 03:01:38 2024
+
+
+User: admin
+Action: Login as administrator
+Time: Tue Jun 18 03:02:09 2024
+
+
+User: admin
+Action: Added item with ID: 15
+Time: Tue Jun 18 03:02:35 2024
+
+
+User: admin
+Action: Edited item with new ID: 15
+Time: Tue Jun 18 03:03:29 2024
+
+
+User: admin
+Action: Displayed information for item ID: 15
+Time: Tue Jun 18 03:04:01 2024
+
+
+User: admin
+Action: Deleted item with ID: 15
+Time: Tue Jun 18 03:04:35 2024
+
+
+User: admin
+Action: Failed to find user with ID: 1
+Time: Tue Jun 18 03:05:39 2024
+
+
+User: admin
+Action: Retrieved information for user ID: user1
+Time: Tue Jun 18 03:05:57 2024
+
+
